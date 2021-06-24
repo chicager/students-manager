@@ -1,4 +1,4 @@
-# Students Manager
+# STUDENTS MANAGER
 
 <a href="https://students-manager-webapp.herokuapp.com" target="_blank">Попробовать приложение</a><br/>
 
