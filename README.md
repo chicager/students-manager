@@ -1,13 +1,13 @@
 # Students Manager
 
-<a href="https://chicager.github.io/RGBColorGame/">Start Game</a><br/>
+<a href="https://chicager.github.io/RGBColorGame/">Попробовать приложение</a><br/>
 
 <img src="screen.jpg" alt="screenshot"/><br/>
 
 ------------
-### RESTful приложение написанное с помощью <a href="https://angular.io">Angular 12</a> и <a href="https://spring.io">Spring</a>.
+## RESTful приложение написанное с помощью <a href="https://angular.io">Angular 12</a> и <a href="https://spring.io">Spring</a>.
 
-#### Описание:
+### Описание:
 
 Приложение создает базу студентов, где вы можете:
 - добавлять новых студентов
@@ -20,9 +20,9 @@
 
 ------------
 
-#### Информация:
+### Информация:
 
-##### Использованные Технологии:
+#### Использованные Технологии:
 
 **_Frontend_**:&nbsp; Angular, Typescript, JS, Bootstrap, Html/Css, Responsive Design<br/>
 **_Backend_**:&nbsp; Java, Spring-Core, Spring-MVC, Spring-Boot, Spring-Jpa, Spring-Data, Maven<br/>
@@ -31,7 +31,7 @@
 <a href="http://studentsmanager-app.herokuapp.com">http://studentsmanager-app.herokuapp.com</a>  - деплой бэкенда. Можно использовать для теста API's<br/>
 
 
-##### APIs:
+#### APIs:
 
 api                        |Action:
 ---------------------------|------------------------------
@@ -48,10 +48,8 @@ api                        |Action:
 
 ------------
 
-#### Репозиторий:
+### Репозиторий:
 _/sm-front_ &nbsp;- &nbsp;фронтенд код приложения<br/>
 _/sm-backend_ &nbsp;- &nbsp;бэкенд код приложения
 
 ------------
-
-<br/>
