@@ -1,0 +1,60 @@
+a.btn i.fa, 
+li.list-inline-item .fa-comment,
+li.list-inline-item .fa-file,
+li.list-inline-item .fa-git {
+    
+    color: #fff;
+}
+
+.sber {
+    color: #09d12a;
+}
+
+.padding-less {
+    padding: 0;
+}
+
+.alert {
+    padding-right: 0;
+    padding-left: 0;
+    padding-bottom: 0;
+}
+
+.no-items-found {
+    padding-bottom: 12px;
+}
+
+.note-body {
+    background-color: #fff;
+}
+
+.header-wrapper {
+    padding-bottom: 12px;
+    padding-left: 20px;
+}
+
+.press-mail {
+    cursor: default;
+}
+
+.profile-padding, .info-padding  {
+    padding: 0 20px;
+}
+
+hr.divider {
+    background-color: rgb(48, 159, 219); 
+}
+
+.pre-class {
+    color: #6c757d !important;
+    font-size: 1rem;
+    font-family: -apple-system,BlinkMacSystemFont,
+    "Segoe UI",Roboto,"Helvetica Neue",Arial,
+    "Noto Sans",sans-serif,"Apple Color Emoji",
+    "Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-weight: 400;
+    line-height: 1.5;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    margin: 0;
+}

@@ -1,0 +1,83 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+#====== sm-frontend ======
+
+# compiled output
+sm-frontend/dist
+sm-frontend/tmp
+sm-frontend/out-tsc
+# Only exists if Bazel was run
+sm-frontend/bazel-out
+
+# dependencies
+sm-frontend/node_modules
+
+# profiling files
+sm-frontend/chrome-profiler-events*.json
+
+# IDEs and editors
+/.idea
+sm-frontend/.project
+sm-frontend/.classpath
+sm-frontend/.c9/
+*.launch
+sm-frontend/.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+sm-frontend/.vscode/*
+!sm-frontend/.vscode/settings.json
+!sm-frontend/.vscode/tasks.json
+!sm-frontend/.vscode/launch.json
+!sm-frontend/.vscode/extensions.json
+sm-frontend/.history/*
+
+# misc
+/sm-frontend/.sass-cache
+/sm-frontend/connect.lock
+/sm-frontend/coverage
+/sm-frontend/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/sm-frontend/typings
+
+# System Files
+.DS_Store
+Thumbs.db
+
+#====== sm-backend ======
+
+sm-backend/HELP.md
+sm-backend/target/
+!sm-backend/.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+sm-backend/.apt_generated
+sm-backend/.classpath
+sm-backend/.factorypath
+sm-backend/.project
+sm-backend/.settings
+sm-backend/.springBeans
+sm-backend/.sts4-cache
+
+### IntelliJ IDEA ###
+sm-backend/.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/sm-backend/nbproject/private/
+/sm-backend/nbbuild/
+/sm-backend/dist/
+/sm-backend/nbdist/
+/sm-backend/.nb-gradle/
+sm-backend/build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
