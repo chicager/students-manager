@@ -2,7 +2,7 @@
 
 <a href="https://students-manager-webapp.herokuapp.com" target="_blank">Try app</a><br/>
 
-<img src="screen-end.jpg" alt="screenshot"/><br/>
+<img src="screen-eng.jpg" alt="screenshot"/><br/>
 
 ------------
 ## RESTful app coded with <a href="https://angular.io" target="_blank">Angular 12</a> and <a href="https://spring.io" target="_blank">Spring</a>.
