@@ -52,9 +52,9 @@ api                        |Action:
 ### Репозиторий:
 _/sm-frontend_ &nbsp;- &nbsp;app frontend code<br/>
 _/sm-backend_ &nbsp;- &nbsp;app backend code<br/>
-_/avatars_ - &nbsp;- &nbsp;avatar folder as an example<br/>
-_/dbs_ - &nbsp;- &nbsp;heroku db folder as an example. <a href="https://devcenter.heroku.com/articles/heroku-postgres-import-export" target="_blank">How to import the base into heroku</a><br/>
-_README-rus.md_ - &nbsp;- &nbsp;readme in Russian<br/>
-_README.md_ - &nbsp;- &nbsp;readme in English
+_/avatars_ &nbsp;- &nbsp;avatar folder as an example<br/>
+_/dbs_ &nbsp;- &nbsp;heroku db folder as an example. <a href="https://devcenter.heroku.com/articles/heroku-postgres-import-export" target="_blank">How to import the base into heroku</a><br/>
+_README-rus.md_ &nbsp;- &nbsp;readme in Russian<br/>
+_README.md_ &nbsp;- &nbsp;readme in English
 
 ------------
