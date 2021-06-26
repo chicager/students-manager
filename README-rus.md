@@ -52,7 +52,8 @@ api                        |Action:
 _/sm-frontend_ &nbsp;- &nbsp;фронтенд код приложения<br/>
 _/sm-backend_ &nbsp;- &nbsp;бэкенд код приложения<br/>
 _/avatars_ - &nbsp;- &nbsp;папка с аватарками для примера<br/>
-_/dbs_ - &nbsp;- &nbsp;папка с бд с хероку для примера. <a href="https://devcenter.heroku.com/articles/heroku-postgres-import-export" target="_blank">Как импортировать базу в heroku</a><br/>  
+_/dbs_ - &nbsp;- &nbsp;папка с бд с хероку для примера. <a href="https://devcenter.heroku.com/articles/heroku-postgres-import-export" target="_blank">Как импортировать базу в heroku</a>
 _README-rus.md_ - &nbsp;- &nbsp;ридми на русском языке
+_README.md_ - &nbsp;- &nbsp;ридми на англ языке
 
 ------------
