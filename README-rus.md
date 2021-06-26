@@ -1,6 +1,6 @@
 # STUDENTS MANAGER
 
-<a href="https://students-manager-webapp.herokuapp.com" target="_blank">Попробовать приложение</a><br/>
+<a href="https://students-manager-webapp.herokuapp.com" target="_blank">Попробовать приложение</a> (Если база данных не прогрузилась - обновите несколько раз страницу, это связано с работой хостинга Heroku)<br/>
 
 <img src="screen-rus.jpg" alt="screenshot"/><br/>
 
