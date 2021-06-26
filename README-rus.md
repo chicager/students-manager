@@ -50,9 +50,9 @@ api                        |Action:
 
 ### Репозиторий:
 _/sm-frontend_ &nbsp;- &nbsp;фронтенд код приложения<br/>
-_/sm-backend_ &nbsp;- &nbsp;бэкенд код приложения
-_/avatars_ - &nbsp;- &nbsp;папка с аватарками для примера
-_/dbs_ - &nbsp;- &nbsp;папка с бд с хероку для примера
+_/sm-backend_ &nbsp;- &nbsp;бэкенд код приложения<br/>
+_/avatars_ - &nbsp;- &nbsp;папка с аватарками для примера<br/>
+_/dbs_ - &nbsp;- &nbsp;папка с бд с хероку для примера<br/>
 _README-rus.md_ - &nbsp;- &nbsp;ридми на русском языке
 
 ------------
