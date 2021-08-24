@@ -49,7 +49,7 @@ api                        |Action:
 
 ------------
 
-### Репозиторий:
+### Repository Info:
 _/sm-frontend_ &nbsp;- &nbsp;app frontend code<br/>
 _/sm-backend_ &nbsp;- &nbsp;app backend code<br/>
 _/avatars_ &nbsp;- &nbsp;avatar folder as an example<br/>
