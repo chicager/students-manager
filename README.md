@@ -2,6 +2,7 @@
 
 ## **<a href="https://students-manager-webapp.herokuapp.com" target="_blank">**Try app**</a><br/>**
 ### ❗❗❗ If the database has not loaded PLEASE WAIT A MINUTE AND REFRESH THE PAGE SEVERAL TIMES, this is due to the work of Heroku hosting ❗❗❗<br/>
+When the database gets loaded you have to see somethng like in the picture below.
 
 <img src="screen-eng.jpg" alt="screenshot"/><br/>
 
