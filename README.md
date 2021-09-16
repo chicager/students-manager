@@ -1,7 +1,7 @@
 # STUDENTS MANAGER
 
 ## **<a href="https://students-manager-webapp.herokuapp.com" target="_blank">**Try app**</a><br/>**
-(If the database has not loaded then refresh the page several times, this is due to the work of Heroku hosting)<br/>
+###If the database has not loaded PLEASE WAIT A MINUTE AND REFRESH THE PAGE SEVERAL TIMES, this is due to the work of Heroku hosting!!!###<br/>
 
 <img src="screen-eng.jpg" alt="screenshot"/><br/>
 
